@@ -85,13 +85,13 @@ const details = [{
     {
         inside: "income tax",
         title: "Income Tax Return   TRUSTS",
-        price: "<sup>&#8377</sup>2999",
+        price: "<sup>&#8377</sup>4399",
         disc: "Feel free to Call or Whatsapp us and Our Experts will follow up and ensure you to get your Income Tax return filed at the earliest."
     },
     {
         inside: "gst tax",
-        title: "GST <br> registrations",
-        price: "<sup>&#8377</sup>499",
+        title: "GST <br> Registrations",
+        price: "<sup>&#8377</sup>999",
         disc: "The Registration under GST is necessary for business entities who fall under the eligibility criteria of GST Registration. Feel free to contact us and get your GST Registration."
     },
     {
@@ -103,13 +103,13 @@ const details = [{
     {
         inside: "gst tax",
         title: "GST Annual Return GSTR-9",
-        price: "<sup>&#8377</sup>2499",
+        price: "<sup>&#8377</sup>2999",
         disc: "GSTR-9 is an annual return to be filed once for each financial year, by the registered taxpayers who were regular taxpayers."
     },
     {
         inside: "gst tax",
         title: "GST Final Return GSTR-10",
-        price: "<sup>&#8377</sup>1299",
+        price: "<sup>&#8377</sup>1499",
         disc: "A taxable person whose GST registration is cancelled or surrendered has to file final return in Form GSTR-10."
     },
 ];
